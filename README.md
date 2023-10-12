@@ -16,7 +16,7 @@ This project focuses on using audio analysis techniques in combination with a Co
 ## Installation
 
 1. Clone the repository to your local machine:
-
+   ```bash
    ```bash
    git clone https://github.com/sudocanttype/Auditory_Unveil.git
    cd Auditory_Unveil
@@ -26,6 +26,3 @@ This project focuses on using audio analysis techniques in combination with a Co
 3. Run the Jupyter Notebook
    ```bash
    jupyter notebook ACM2023.ipynb
-   
-   
-   
