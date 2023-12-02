@@ -10,7 +10,6 @@ This project focuses on using audio analysis techniques in combination with a Co
 - **Audio Preprocessing:** Utilize audio processing libraries to extract relevant features from speech signals.
 - **Convolutional Neural Network:** Implement a CNN model to learn emotional patterns from audio data.
 - **Emotion Classification:** Identify emotions such as happiness, sadness, anger, and more.
-- **Real-time Analysis:** Extend the model for real-time emotion detection from live audio inputs.
 - **Visualization:** Visualize emotions through graphs, spectrograms, or other graphical representations.
 
 ## Installation
