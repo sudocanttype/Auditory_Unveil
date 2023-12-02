@@ -1,6 +1,8 @@
 # Auditory_Unveil
 Uses audio analysis along with a Convolutional Neural Network model to detect emotions in speech.
 
+![Auditory_Unveil Research Poster](README_IMG/Auditory_Unveil_Poster.jpg)
+
 ## Overview
 
 This project focuses on using audio analysis techniques in combination with a Convolutional Neural Network (CNN) model to detect emotions in speech. It's designed to provide a framework for understanding and recognizing emotions in spoken language, which has practical applications in various fields, including human-computer interaction, sentiment analysis, and mental health monitoring.
